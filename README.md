@@ -1,5 +1,6 @@
 - 👋 Hi, I’m @mfontolan
-- 👀 I’m interested in PHP, JavaScriptm Ajax
+- 👀 I’m interested in PHP, JavaScript, Ajax
+- I develop and maitain our Application that runs PHP with our solution for PHP + Ajax integration
 
 <!---
 mfontolan/mfontolan is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
